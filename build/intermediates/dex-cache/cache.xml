@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chaihongwei/source/PracticeDraw3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72d22e5cf417ed6248806de29e68fbee781a5bc7">
+        <dex dex="/Users/chaihongwei/source/PracticeDraw3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_475de3825758ea8a29a3212d817899b196ea6f14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chaihongwei/source/PracticeDraw3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/chaihongwei/source/PracticeDraw3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6849f731673e230514dd9d8327469d2ca7c96434/classes.dex" />
+    </item>
+
+</items>
